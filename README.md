@@ -1,6 +1,3 @@
-# predizer-obito-infantil
-Repositório utilizado para desenvolver o trabalho final da disciplina de inteligência artificial com o assunto de predição da mortalidade infantil. 
-
 # Avaliando o desempenho de algoritmos de classificação para predição do óbito infantil
 ----
 
