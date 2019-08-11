@@ -32,7 +32,7 @@ Com intuito de ter conhecimento sobre o conjunto de dados, análises exploratór
 
 Ao fim da tarefa pretende-se comparar os resultados obtidos com os apresentados por Silva et al. (2017).
 
-##### Bibliografia
+### Bibliografia
 
 ALTMAN, Naomi S. An introduction to kernel and nearest-neighbor nonparametricregression.The American Statistician, Taylor & Francis Group, v. 46, n. 3, p. 175–185,1992.
 
