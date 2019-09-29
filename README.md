@@ -17,6 +17,8 @@
 
 **Ambiente de programação**: Version 1.0.143 – © 2009-2016 RStudio, Inc.
 
+**Template Latex**: Disponível em https://pt.overleaf.com/latex/templates/sbc-conferences-template/blbxwjwzdngr da Sociedade Brasileira de Computação (SBC)
+
 ----
 
 
